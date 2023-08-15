@@ -11,7 +11,7 @@ $ cat /etc/profile
 
 NAME=Andreas Palm
 EMAIL=me[a]andreaspalm.se
-WORKPLACE=Zimper AB
-PROFESSION=Software Developer
-PROFESSION_DESC=Fullstack development in Go / TS (React)
+WORKPLACE=Fabled AB
+PROFESSION=System Developer
+PROFESSION_DESC=Fullstack development consultant
 ```
